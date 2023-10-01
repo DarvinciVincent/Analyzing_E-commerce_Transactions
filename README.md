@@ -14,8 +14,7 @@ Join us on this data-driven journey as we follow Alex's steps, revealing the sec
 
 **Objective:** The objective of this project is to leverage Python and SQL for comprehensive data analysis and insights in the context of e-commerce. The project is divided into three key phases: Data Cleanup, Cohort Analysis, and SQL Insights. In the Data Cleanup phase, we aim to ensure the dataset's quality and readiness for analysis. In the Cohort Analysis phase, we intend to uncover customer behavior patterns and loyalty insights. Finally, in the SQL Insights phase, we seek to extract valuable information and answers to critical questions, ultimately contributing to data-informed decision-making in the competitive world of online shopping. Through this project, we aim to empower e-commerce businesses with actionable insights and strategies for success.<br>
 
-**Data Sources:** The project leverages one key table that provides valuable information for analysis:
-[Transaction_dataset column descriptions:]
+**Data Sources and Dataset column descriptions:** The project leverages one key table that provides valuable information for analysis:
 1. transaction_id: This is a unique identifier for each transaction, allowing you to track and reference specific purchases.
 
 2. product_id: This column represents the unique identifier for each product in your inventory. It allows you to associate transactions with the specific products customers have purchased.
