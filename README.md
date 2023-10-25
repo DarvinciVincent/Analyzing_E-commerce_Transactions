@@ -1,4 +1,8 @@
 # Analyzing E-commerce Transactions:Data Cleaning, Cohort Analysis, and SQL
+## Table of Contents:
+
+- [Project Description](https://github.com/DarvinciVincent/Sales_Analysis_Dashboard/blob/main/README.md#Project Description-)
+- [Objective](https://github.com/DarvinciVincent/Sales_Analysis_Dashboard/blob/main/README.md#Objective-)
 
 ## Project Description : 
 In the fast-changing world of online shopping, our data whiz, Alex, embarked on an exciting journey. With Python and SQL as trusted companions, he explored a vast e-commerce dataset in three key phases: Data Cleanup, Cohort Analysis, and SQL Insights.<br>
