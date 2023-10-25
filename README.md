@@ -1,7 +1,8 @@
 # Analyzing E-commerce Transactions:Data Cleaning, Cohort Analysis, and SQL
+
 ## Table of Contents:
 
-- [Project Description](https://github.com/DarvinciVincent/Sales_Analysis_Dashboard/blob/main/README.md#Project Description-)
+- [Project Description](https://github.com/DarvinciVincent/Sales_Analysis_Dashboard/blob/main/README.md#project-description-)
 - [Objective](https://github.com/DarvinciVincent/Sales_Analysis_Dashboard/blob/main/README.md#Objective-)
 
 ## Project Description : 
