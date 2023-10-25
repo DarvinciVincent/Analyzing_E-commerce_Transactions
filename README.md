@@ -24,7 +24,7 @@ Join us on this data-driven journey as we follow Alex's steps, revealing the sec
 The objective of this project is to leverage Python and SQL for comprehensive data analysis and insights in the context of e-commerce. The project is divided into three key phases: Data Cleanup, Cohort Analysis, and SQL Insights. In the Data Cleanup phase, we aim to ensure the dataset's quality and readiness for analysis. In the Cohort Analysis phase, we intend to uncover customer behavior patterns and loyalty insights. Finally, in the SQL Insights phase, we seek to extract valuable information and answers to critical questions, ultimately contributing to data-informed decision-making in the competitive world of online shopping. Through this project, we aim to empower e-commerce businesses with actionable insights and strategies for success.<br>
 
 ## Data Sources : 
-
+Dataset: [E-commerce dataset](https://github.com/DarvinciVincent/Analyzing_E-commerce_Transactions/blob/main/cleaned_dataset.csv)
 
 ## Dataset descriptions :
 **The project leverages one key table that provides valuable information for analysis:**
@@ -50,6 +50,5 @@ The objective of this project is to leverage Python and SQL for comprehensive da
 
 11. product_first_sold_date: This column records the date when each product was first sold. It provides information about product lifecycle and helps in analyzing the popularity of newer products.
 
-Dataset: [E-commerce dataset](https://github.com/DarvinciVincent/Analyzing_E-commerce_Transactions/blob/main/cleaned_dataset.csv)
 
 
